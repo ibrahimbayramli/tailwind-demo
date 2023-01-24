@@ -1,3 +1,3 @@
 ``
-Çalıştırma komutu: npm run watch
+Run Command: npm run watch
 ``
