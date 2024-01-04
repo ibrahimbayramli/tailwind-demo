@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/tailwind-demo is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [New Relic](http://newrelic.com) – Performance Monitoring
 - [Coveralls](https://coveralls.io/) – Code Coverage
@@ -57,11 +58,13 @@ ibrahimbayramli/tailwind-demo is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ibrahimbayramli/tailwind-demo is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png' alt='New Relic'/> [New Relic](http://newrelic.com) – Performance Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
@@ -117,14 +120,15 @@ ibrahimbayramli/tailwind-demo is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/tailwind-demo](https://github.com/ibrahimbayramli/tailwind-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|303<br/>Tools used|11/09/23 <br/>Report generated|
+|307<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -710,9 +714,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (236)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (240)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (236)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (240)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -774,6 +778,7 @@ Full tech stack [here](/techstack.md)
 |[covert](https://www.npmjs.com/covert)|v1.1.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[css](https://www.npmjs.com/css)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.1.14|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[d3](https://www.npmjs.com/d3)|N/A|01/24/23|İbrahim BAYRAMLI |ISC|N/A|
 |[defined](https://www.npmjs.com/defined)|v1.0.1|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[del](https://www.npmjs.com/del)|v2.2.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -822,6 +827,7 @@ Full tech stack [here](/techstack.md)
 |[he](https://www.npmjs.com/he)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[http](https://www.npmjs.com/http)|N/A|01/24/23|İbrahim BAYRAMLI |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|01/24/23|İbrahim BAYRAMLI |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v2.3.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[immutable](https://www.npmjs.com/immutable)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -842,6 +848,7 @@ Full tech stack [here](/techstack.md)
 |[karma-mocha](https://www.npmjs.com/karma-mocha)|v1.3.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[kind-of](https://www.npmjs.com/kind-of)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|N/A|01/24/23|İbrahim BAYRAMLI |BSD-3-Clause|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.1.7|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|01/24/23|İbrahim BAYRAMLI |ISC|N/A|
 |[log-update](https://www.npmjs.com/log-update)|v4.0.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[md5](https://www.npmjs.com/md5)|N/A|01/24/23|İbrahim BAYRAMLI |BSD-3-Clause|N/A|
@@ -923,6 +930,7 @@ Full tech stack [here](/techstack.md)
 |[tape](https://www.npmjs.com/tape)|v4.11.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|01/24/23|İbrahim BAYRAMLI |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[through](https://www.npmjs.com/through)|N/A|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
 |[through2](https://www.npmjs.com/through2)|v3.0.1|01/24/23|İbrahim BAYRAMLI |MIT|N/A|
@@ -956,4 +964,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
