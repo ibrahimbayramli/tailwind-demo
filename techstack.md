@@ -128,7 +128,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/tailwind-demo](https://github.com/ibrahimbayramli/tailwind-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|307<br/>Tools used|01/04/24 <br/>Report generated|
+|307<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
