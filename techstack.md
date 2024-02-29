@@ -3,59 +3,59 @@
 ## Tech Stack
 ibrahimbayramli/tailwind-demo is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [New Relic](http://newrelic.com) – Performance Monitoring
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [Testling](https://ci.testling.com/) – Continuous Integration
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
+- [CoffeeScript](http://coffeescript.org/) – Languages
+- [D](http://dlang.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- [CoffeeScript](http://coffeescript.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [JSHint](http://www.jshint.com/about/) – Code Review
-- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [Codecov](https://codecov.io/) – Code Coverage
-- [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
-- [D](http://dlang.org/) – Languages
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Prototype](http://prototypejs.org/) – Javascript UI Libraries
-- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [TSLint](https://github.com/palantir/tslint) – Code Review
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- [highlight.js](https://highlightjs.org/) – Text Editor
-- [Prettier](https://prettier.io/) – Code Review
-- [hub](http://hub.github.com/) – Git Tools
-- [Airtap](https://github.com/airtap/airtap) – Browser Testing
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Prototype](http://prototypejs.org/) – Javascript UI Libraries
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Codecov](https://codecov.io/) – Code Coverage
+- [Coveralls](https://coveralls.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [JSHint](http://www.jshint.com/about/) – Code Review
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [New Relic](http://newrelic.com) – Performance Monitoring
+- [Prettier](https://prettier.io/) – Code Review
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [TSLint](https://github.com/palantir/tslint) – Code Review
+- [Testling](https://ci.testling.com/) – Continuous Integration
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [highlight.js](https://highlightjs.org/) – Text Editor
+- [hub](http://hub.github.com/) – Git Tools
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -65,59 +65,59 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ibrahimbayramli/tailwind-demo is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png' alt='New Relic'/> [New Relic](http://newrelic.com) – Performance Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/851/testling.png' alt='Testling'/> [Testling](https://ci.testling.com/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2699/KoK6gHzp.jpg' alt='React Native'/> [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3597/o_bigger_400x400.png' alt='Prototype'/> [Prototype](http://prototypejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3597/o_bigger_400x400.png' alt='Prototype'/> [Prototype](http://prototypejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2699/KoK6gHzp.jpg' alt='React Native'/> [React Native](http://facebook.github.io/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png' alt='New Relic'/> [New Relic](http://newrelic.com) – Performance Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/851/testling.png' alt='Testling'/> [Testling](https://ci.testling.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/3649/default_01276c9c0c79674b16f9b29216bd8cc7ce9b894d.png' alt='Alt'/> [Alt](https://alt.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Immutable.js'/> [Immutable.js](http://facebook.github.io/immutable-js/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -128,7 +128,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ibrahimbayramli/tailwind-demo](https://github.com/ibrahimbayramli/tailwind-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|307<br/>Tools used|01/05/24 <br/>Report generated|
+|307<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
